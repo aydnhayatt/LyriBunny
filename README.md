@@ -5,6 +5,9 @@
 
 ---
 
+# Ekran Görüntüsü
+<img width="1858" height="968" alt="Image" src="https://github.com/user-attachments/assets/4cb0c259-84a4-4252-ae33-152624cc3f07" />
+
 ## 🎯 Öne Çıkan Özellikler
 - 🎤 **Şarkı Sözleri Arama:** Şarkı adı ve opsiyonel olarak sanatçı adı girerek şarkı sözlerini getirme.
 - 🌐 **Çoklu Dil Desteği:** Türkçe, İngilizce, Fransızca, Almanca, İspanyolca, İtalyanca, Rusça, Japonca, Korece ve Çince çeviri.
